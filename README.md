@@ -1,4 +1,4 @@
-# Getting Start
+# metrics中文手册
 
-先占坑
+本着没时间的原则，先占坑。
 
